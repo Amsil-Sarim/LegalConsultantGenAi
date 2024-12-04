@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pandas==2.2.2
+openai==1.47.0
+pydantic-settings==2.5.2
+python-multipart==0.0.9
+pytest==8.3.3
+# List FastAPI, Uvicorn, pandas, OpenAI, and pytest dependencies
