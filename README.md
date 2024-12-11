@@ -54,3 +54,4 @@ The project includes a GitHub Actions workflow for CI. For production deployment
 - Setting up a reverse proxy (e.g., Nginx)
 - Configuring HTTPS
 - Monitoring and alerting
+# Add instructions for cloning, setup, and running the app
