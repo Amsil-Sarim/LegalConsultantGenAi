@@ -65,3 +65,4 @@ function Home() {
 
 export default Home;
 # Implement form with axios POST and error handling
+# Check file type and presence before submission
