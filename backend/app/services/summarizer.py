@@ -107,3 +107,4 @@ async def generate_summaries(questions):
     return summaries
 # Add async summarization with batch processing and state code parsing
 # Reduce batch size to 10 for faster API calls
+# Add detailed logging for API failures
