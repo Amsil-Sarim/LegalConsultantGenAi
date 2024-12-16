@@ -55,3 +55,4 @@ The project includes a GitHub Actions workflow for CI. For production deployment
 - Configuring HTTPS
 - Monitoring and alerting
 # Add instructions for cloning, setup, and running the app
+# Include guidelines for database, proxy, and HTTPS
