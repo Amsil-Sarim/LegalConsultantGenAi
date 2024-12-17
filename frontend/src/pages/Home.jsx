@@ -67,3 +67,4 @@ export default Home;
 # Implement form with axios POST and error handling
 # Check file type and presence before submission
 # Add responsive layout with centered form and shadows
+# Show spinner during backend processing
