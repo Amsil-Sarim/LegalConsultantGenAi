@@ -6,3 +6,4 @@ pydantic-settings==2.5.2
 python-multipart==0.0.9
 pytest==8.3.3
 # List FastAPI, Uvicorn, pandas, OpenAI, and pytest dependencies
+# Upgrade to latest secure versions
