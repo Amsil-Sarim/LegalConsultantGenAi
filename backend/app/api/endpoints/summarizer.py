@@ -40,3 +40,4 @@ async def summarize_questions(file: UploadFile = File(...)):
         logger.error(f"Error processing file: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 # Implement /api/v1/summarize with CSV validation
+# Add error handling for empty CSV uploads
