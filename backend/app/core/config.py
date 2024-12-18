@@ -11,3 +11,4 @@ class Settings(BaseSettings):
 
 settings = Settings()
 # Set up Pydantic settings for OpenAI API key and logging
+# Add RATE_LIMIT_REQUESTS and RATE_LIMIT_WINDOW
