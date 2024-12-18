@@ -48,3 +48,4 @@ jobs:
         cd backend
         pytest
 # Add linting and testing for Python and Node
+# Include backend test execution in GitHub Actions
