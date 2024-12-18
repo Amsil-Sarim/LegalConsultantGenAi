@@ -13,3 +13,4 @@ function App() {
 
 export default App;
 # Set up BrowserRouter with Home page route
+# Implement ErrorBoundary to catch render errors
