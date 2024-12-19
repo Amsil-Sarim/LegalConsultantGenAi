@@ -25,3 +25,4 @@ networks:
   app-network:
     driver: bridge
 # Define backend and frontend services with bridged network
+# Add network aliases and health checks
