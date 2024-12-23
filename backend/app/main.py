@@ -11,3 +11,4 @@ app = FastAPI(title="GenAi Assessment API")
 
 app.include_router(summarizer.router, prefix="/api/v1")
 # Initialize FastAPI with /api/v1 router for summarizer endpoint
+# Implement FastAPI middleware for request limits
