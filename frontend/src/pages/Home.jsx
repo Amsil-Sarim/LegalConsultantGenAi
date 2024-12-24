@@ -69,3 +69,4 @@ export default Home;
 # Add responsive layout with centered form and shadows
 # Show spinner during backend processing
 # Display specific backend error messages
+# Check file size and format before submission
