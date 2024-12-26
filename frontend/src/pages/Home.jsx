@@ -70,3 +70,4 @@ export default Home;
 # Show spinner during backend processing
 # Display specific backend error messages
 # Check file size and format before submission
+# Add ARIA labels and keyboard navigation
