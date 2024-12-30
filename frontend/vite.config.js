@@ -5,3 +5,4 @@ export default defineConfig({
   plugins: [react()],
 })
 # Configure Vite with React plugin for fast builds
+# Enable minification and tree-shaking
