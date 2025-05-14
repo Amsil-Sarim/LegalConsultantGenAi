@@ -7,3 +7,4 @@ function ErrorMessage({ message }) {
 
 export default ErrorMessage;
 # Add console.error for client-side errors
+Enhance error display with custom component
