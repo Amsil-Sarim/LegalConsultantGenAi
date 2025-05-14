@@ -1,4 +1,4 @@
-# GenAi Assessment
+# Legal Document GenAi 
 
 A production-scale application for summarizing legal questions using OpenAI's API.
 
